@@ -1,0 +1,5 @@
+*.log 
+# we can put here every file we wan ignore it from the GIT and not display it when we use `git status` command  
+specialFolder
+!vip.log
+f.txt
